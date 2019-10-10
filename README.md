@@ -1,1 +1,1 @@
-# simple-django-react2
+# simp-django-react2
