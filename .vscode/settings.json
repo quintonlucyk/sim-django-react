@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "VenvDjango\\Scripts\\python.exe"
+    "python.pythonPath": "VenvDjango\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
 }
